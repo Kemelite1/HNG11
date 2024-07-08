@@ -52,6 +52,7 @@ export default {
         neutral700: '#575252',
         neutral800: '#3f3a3a',
         neutral900: '#262323',
+        neutral950: '#0A0B0B',
         neutral1000: '#0e0d0d', 
       },
     },
