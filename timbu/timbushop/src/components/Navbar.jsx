@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
-    <nav className="px-[88px] py-[30px] bg-[#FFFFFF] flex justify-between items-center">
+    <nav className="w-full fixed top-0 left-0 px-[88px] py-[30px] bg-[#FFFFFF] flex justify-between items-center">
       <Link to="/" className="w-[154px] h-[22px] text-[18px] text-primary font-plus-jakarta-sans font-bold leading-[21.6px]">
         Timbu cloud shop
       </Link>
