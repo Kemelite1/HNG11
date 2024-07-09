@@ -54,6 +54,17 @@ export default {
         neutral900: '#262323',
         neutral950: '#0A0B0B',
         neutral1000: '#0e0d0d', 
+        herobg: '#f5f5f5',
+      },
+      fontFamily: {
+        'plus-jakarta-sans': ['"Plus Jakarta Sans"', 'sans-serif'],
+      },
+      fontWeight: {
+        'normal': 400,
+        'medium': 500,
+        'semibold': 600,
+        'bold': 700,
+
       },
     },
   },
